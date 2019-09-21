@@ -1,0 +1,14 @@
+{
+  "name": "map-video",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "core-js": "2",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-navigation": "1.5.12"
+  }
+}
